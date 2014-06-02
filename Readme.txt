@@ -21,7 +21,7 @@ Pour lancer un Client depuis un console, il faut taper "java Client".
 
 Utilisation:
 
-On peut mettre un n'importe quel nom dans la fenêtre qui s'affiche lors du démarrage du client. Un utilisateur avec ce nom sera créé, son stub sera exporté, et la clé de son stub sera enregistré dans l'Annuaire. (Certaines de ces informations seront affichées dans le console) - c.f. le demo (demo.gif)
+On peut mettre n'importe quel nom dans la fenêtre qui s'affiche lors du démarrage du client. Un utilisateur avec ce nom sera créé, son stub sera exporté, et la clé de son stub sera enregistré dans l'Annuaire. (Certaines de ces informations seront affichées dans le console) - c.f. le demo (demo.gif)
 
 
 
